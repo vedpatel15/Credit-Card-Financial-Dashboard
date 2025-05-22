@@ -75,7 +75,7 @@ CSV HEADER;cust_detail
 -- copy additional data (week-53) in cc_detail table
 
 COPY cc_detail
-FROM 'D:\cc_add.csv' 
+FROM 'C:\Users\ved72\OneDrive\Desktop\BI Project\Credit_Card_Financial_Dashboard-main\cc_add.csv' 
 DELIMITER ',' 
 CSV HEADER;
 
@@ -83,7 +83,7 @@ CSV HEADER;
 -- copy additional data (week-53) in cust_detail table (remember to update the file name and file location in below query)
 
 COPY cust_detail
-FROM 'D:\cust_add.csv' 
+FROM 'C:\Users\ved72\OneDrive\Desktop\BI Project\Credit_Card_Financial_Dashboard-main\cust_add.csv' 
 DELIMITER ',' 
 CSV HEADER;
 

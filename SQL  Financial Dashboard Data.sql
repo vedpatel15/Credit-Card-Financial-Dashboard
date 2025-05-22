@@ -48,7 +48,7 @@ CREATE TABLE cust_detail (
 );
 
 
--- 3. Copy csv data into SQL (remember to update the file name and file location in below query)
+-- 3. Copy csv data into SQL 
 
 -- copy cc_detail table
 
@@ -80,7 +80,7 @@ DELIMITER ','
 CSV HEADER;
 
 
--- copy additional data (week-53) in cust_detail table (remember to update the file name and file location in below query)
+-- copy additional data (week-53) in cust_detail table 
 
 COPY cust_detail
 FROM 'C:\Users\ved72\OneDrive\Desktop\Credit_Card_Financial_Dashboard-main\cust_add.csv' 

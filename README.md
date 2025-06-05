@@ -1,6 +1,3 @@
-# Credit-Card-Financial-Dashboard
-PowerBI Dashboard
-
 # 💳 Credit Card Financial Dashboard:
 This Power BI dashboard provides insights into credit card transactions, customer demographics, and revenue distribution. It helps analyze trends across different income groups, card categories, occupations, age groups, and states.
 
